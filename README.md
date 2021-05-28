@@ -1,5 +1,7 @@
 # InformeTarea
 
+Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa 
+
 1. OBJETIVOS
 
      Objetivo General
@@ -8,6 +10,8 @@
         y poner en práctica al momento de realizar ejercicios de voltaje y corriente para aplicar el conocieminto adquirido.   
         
      Objetivos Específicos
+     
+     
 
 
 2. MARCO TEORICO

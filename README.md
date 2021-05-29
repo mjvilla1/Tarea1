@@ -17,5 +17,8 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 2. MARCO TEORICO
 
 
+4.EXPLICACIÓN Y RESOLUCIÓN
 
+Para la resolución de los ejercicios del 1-20 
+ Realizaremos las siguientes conversiones de unidades 
 

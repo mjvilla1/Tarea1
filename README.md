@@ -20,6 +20,8 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 # 2. MARCO TEORICO
 ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Mapa%20Conceptual%20Sistema%20Internacional.PNG)
 
+![image](https://user-images.githubusercontent.com/84806069/120210157-15186280-c1f5-11eb-8f87-30123c694a5a.png)
+
 # 3. EXPLICACIÓN Y RESOLUCIÓN
 
 Para la resolución de los ejercicios del 1-20 

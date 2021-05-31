@@ -23,25 +23,24 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 Para la resolución de los ejercicios del 1-20 
 
  Realizaremos las siguientes conversiones de unidades 
+ 48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
- 
- 41. Determine los valores que se deben insertar en el espacio en blanco.
-	150kV=150×10^3 V=0.150×10^6
-	333μW=0.330×〖10〗^(-3)=33×〖10〗^(-4)
-42. Realice las operaciones y exprese las respuestas en las unidades que se indican 
-	700μA-0.4mA=300μA=0.3mA
-	600MW+300×〖10〗^4 W=603MW
-43. Realice las operaciones y exprese las respuestas en las unidades que se indican
-	330V+0.15kV+0.2×〖10〗^3 V=680V
-	60W+100W+2700mW=162.7W
-44. El voltaje de una linea de transmision de alto voltaje es de 1.15 ×〖10〗^5 V. ¿Cuál es el voltaje de kV?
-  El voltaje es 1.15 ×〖10〗^6
-45. Se compra un radiador electrico de 1500 W para calentar una habitación. ¿Cuántos kW es esta cantidad?
-0.00150kW
-46.  Considere la figura Como aprenderá en el capítulo 6,I4=I1+I2+I3.Si I1=1.2mA, I2=350μA eI3=250×〖10〗^(-5)¿cuánt vale I4?
- I4=4.05×〖10〗^(-3)
-47 Para la figura I1+I2-I3+I4=0 .Si I1=12A, I2=0.150kA I4=250×〖10〗^(-1) A ¿Cuánto vale I3?
+49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?
 
-I3=I1+I2+I4= 187A
+50.
+	Si 0.045 coulomb de carga pasan a través de un alambre de 15 ms ¿Cuántos electrones equivale esto?
+	
+	Con una rapidez de 9.36×〖10〗^(-19) electrones por segundo ¿ cuantos coulomb pasan por un punto de un alambre de 20μs.
+	
+51. Una seña de radio viaja a 229 792.458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a destino alejado a 5000km? ¿Cuánto tiempo pasa entre la de llegada de una a otra?
+52. En el capítulo 4 aprenderá la potencia de cd esta dad por el producto del voltaje y la corriente esto es, P= V*I Watts.
+	Si V=50V e I =24 mA (ambos valores exactos) ¿Cuánto vale P en Watts?
+	Si el voltaje se mide con un voltimetro con V=50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I =24.0 ± .01mA ¿Qué concluye acerca de P con base en los valores medidos?
+53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir R=V÷I  ohms         
+	Si V=50V e I =24 mA (ambos valores exactos) ¿Cuánto vale r en Watts?
+	Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente se mide como I =24.0 ± .01mA ¿Qué concluye acerca de R con base en los valores medidos?
+54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
+
+
 
 

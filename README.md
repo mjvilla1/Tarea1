@@ -23,6 +23,8 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 Para la resolución de los ejercicios del 1-20 
 
  Realizaremos las siguientes conversiones de unidades 
+ 
+ 
  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201.PNG)
  
  

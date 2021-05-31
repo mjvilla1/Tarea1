@@ -4,13 +4,13 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 
 # 1. OBJETIVOS
 
-      Objetivo General
+      *Objetivo General
      
         Identificar las diferentes formas de utilizar el sistema internacional, poder hacer conversiones
         entre varios tipos de unidades y poner en práctica al momento de realizar ejercicios 
         de voltaje y corriente para aplicar el conocieminto adquirido.     
     
-    Objetivos Específicos
+    * Objetivos Específicos
      - Conocer la capacidad de voltios que actuan en un sistema eléctrico.
      - Saber cual es la presión que ejerce en una fuente de suministro de energía eléctrica. 
      - Cuantificar o medir la diferencia o pontencial eléctrico o tensión eléctrica. 

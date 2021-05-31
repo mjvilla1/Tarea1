@@ -36,7 +36,7 @@ Para la resolución de los ejercicios del 1-20
  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202.PNG)
  
  3.-Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se lo indica
- 
+ ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.PNG)
  Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de

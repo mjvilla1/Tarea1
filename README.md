@@ -27,8 +27,11 @@ Para la resolución de los ejercicios del 1-20
  1.-
  
  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201.PNG)
+ 2.- 
  
  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202.PNG)
+ 
+ 3.-Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se lo indica
  
  Para la resolución de los ejercicios del 21 al 40 
 

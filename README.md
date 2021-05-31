@@ -41,6 +41,7 @@ Para la resolución de los ejercicios del 1-20
 46.  Considere la figura Como aprenderá en el capítulo 6,I4=I1+I2+I3.Si I1=1.2mA, I2=350μA eI3=250×〖10〗^(-5)¿cuánt vale I4?
  I4=4.05×〖10〗^(-3)
 47 Para la figura I1+I2-I3+I4=0 .Si I1=12A, I2=0.150kA I4=250×〖10〗^(-1) A ¿Cuánto vale I3?
+
 I3=I1+I2+I4= 187A
 
 

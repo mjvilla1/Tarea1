@@ -10,7 +10,7 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
         entre varios tipos de unidades y poner en práctica al momento de realizar ejercicios 
         de voltaje y corriente para aplicar el conocieminto adquirido.     
     
-     Objetivos Específicos
+    Objetivos Específicos
      - Conocer la capacidad de voltios que actuan en un sistema eléctrico.
      - Saber cual es la presión que ejerce en una fuente de suministro de energía eléctrica. 
      - Cuantificar o medir la diferencia o pontencial eléctrico o tensión eléctrica. 
@@ -36,7 +36,6 @@ Para la resolución de los ejercicios del 1-20
  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202.PNG)
  
  3.-Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se lo indica
- 
  
  Para la resolución de los ejercicios del 21 al 40 
 
@@ -70,7 +69,15 @@ respuesta a cuatro dígitos:
 
 ![image](https://user-images.githubusercontent.com/84806069/120246807-f935b080-c236-11eb-855c-3dd36d8e8542.png)
 
- 
+ 27. Realice lo siguiente,
+a. convierta los números a notación de potencias de diez, después realice los
+cálculos que se indican,
+b. realice la operación directamente en la calculadora sin conversión. ¿Cuál
+es su conclusión?
+
+![image](https://user-images.githubusercontent.com/84806069/120248029-2a17e480-c23b-11eb-8b51-7d7a7e466fc3.png)
+
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
 49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?

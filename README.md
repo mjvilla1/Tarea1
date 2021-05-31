@@ -23,6 +23,8 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 Para la resolución de los ejercicios del 1-20 
 
  Realizaremos las siguientes conversiones de unidades 
+ 
+ 
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
 49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?

@@ -62,6 +62,12 @@ decimal:
 la calculadora determine las respuestas.
 
 ![image](https://user-images.githubusercontent.com/84806069/120140078-60078b00-c19f-11eb-81b4-e3ba8094db23.png)
+
+26. Para cada una de las siguientes cantidades convierta los números a notación
+de potencias de diez, después realice los cálculos que se indican. Redondee su
+respuesta a cuatro dígitos:
+
+
  
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  

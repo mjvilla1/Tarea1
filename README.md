@@ -82,6 +82,8 @@ la calculadora determine las respuestas.
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
 
 Actividad 2 
+
+
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 35. Considere tres baterías conectadas como en la figura 
 

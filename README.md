@@ -11,7 +11,9 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
         de voltaje y corriente para aplicar el conocieminto adquirido.     
     
     Objetivos Específicos
-     
+     - Conocer la capacidad de voltios que actuan en un sistema eléctrico.
+     - Saber cual es la presión que ejerce en una fuente de suministro de energía eléctrica. 
+     - Cuantificar o medir la diferencia o pontencial eléctrico o tensión eléctrica. 
     
 
 

@@ -44,6 +44,17 @@ decimal:
 ![image](https://user-images.githubusercontent.com/84806069/120139901-11f28780-c19f-11eb-82e5-ff1ee8d834f4.png)
 
 23. Repita las instrucciones de la pregunta 22 para las siguientes cantidades
+
+![image](https://user-images.githubusercontent.com/84806069/120139957-28004800-c19f-11eb-9b0a-79a50c3f0de4.png)
+
+24. Determine el resultado de las siguientes operaciones
+
+![image](https://user-images.githubusercontent.com/84806069/120140019-3f3f3580-c19f-11eb-9afd-42343d9f81d0.png)
+
+25. Convierta las siguientes cantidades a notación de potencias de 10, y sin usar
+la calculadora determine las respuestas.
+
+![image](https://user-images.githubusercontent.com/84806069/120140078-60078b00-c19f-11eb-81b4-e3ba8094db23.png)
  
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  

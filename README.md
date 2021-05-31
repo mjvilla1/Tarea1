@@ -81,6 +81,26 @@ la calculadora determine las respuestas.
 	Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente se mide como I =24.0 ± .01mA ¿Qué concluye acerca de R con base en los valores medidos?
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
 
+Actividad 2 
+34. ¿Qué se entiendé por cd?, ¿ y por ca?
+35. Considere tres baterías conectadas como en la figura 
+
+    a.Si E1=1.47V,E2=1.62V y E3=1.58V, ¿Cúanto vale ET?
+    b.Si se invierte la conexión a la fuente 3, ¿cúanto vale ET?
+36. ¿Cómo se carg una batería scundaria? Haga un bosquejo.¿Se puede cargar una batería primaria?
+37. Una batería especificada en 1400mAh suministra 28mA a una carga.
+    ¿Cuánto tiempo se espera que dure?
+38. ¿Cuál es la vida de servivio aproximada de la celda D de la tabla con un consumo de corriente de 10mA, de 50 mA y de 100 mA?¿Qué concluye de estos resultados?
+39. La batería de la figura esta especificada en 81Ah a 5°C.¿Cuál es el tiempo de vida esperado(em horas) con un consumo de corriende de 5A a -15°C?
+40. Se espera que la batería de la figura dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con unconsumo de corriente de 0.8 A?
+41. En el tranajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla. Si el dispositivo requiere 10 mA ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+42. El voltímetro digital tiene la caracteristica de autopolaridad. 
+   Para cada caso determine su lectura.
+43. La corriente en el circuito de la figura es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1.(b) el emdidor 2, (c) ambos.
+44. ¿Cuál es el error de afirmación de que el voltaje a través de la lámpara de la figura es 70.3V?
+45. ¿Cuál es el error con el esquema de medicion que se muestra en la figura?. Corríjalo.
+46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla. Dibuje el circuito requerido.
+47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificaciónde voltaje. ¿Por qué?.
 
 
 

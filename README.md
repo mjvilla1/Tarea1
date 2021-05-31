@@ -67,6 +67,7 @@ la calculadora determine las respuestas.
 de potencias de diez, después realice los cálculos que se indican. Redondee su
 respuesta a cuatro dígitos:
 
+![image](https://user-images.githubusercontent.com/84806069/120246807-f935b080-c236-11eb-855c-3dd36d8e8542.png)
 
  
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?

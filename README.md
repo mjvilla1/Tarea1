@@ -23,6 +23,7 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
 Para la resolución de los ejercicios del 1-20 
 
  Realizaremos las siguientes conversiones de unidades 
+ ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201.PNG)
  
  
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?

@@ -122,6 +122,12 @@ cero a la izquierda del punto decimal.
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio40.PNG)
 
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2041.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/ejercicio%2044.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercio%2047%20.jpeg)
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
  V4=V2-V3-V1 por lo tanto V4=5000μV-20×〖10〗^(-4) V-120mV= -0.117V o 117mV el signo indica la direccion por la cual ingresa el voltaje por lo que el valor de I4=117mV
@@ -153,8 +159,11 @@ La difrencia de tiempo es de 15.96s
 53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir R=V÷I  ohms      
    
 	Si V=50V e I =24 mA (ambos valores exactos) ¿Cuánto vale r en Watts?
+	
 	R=V÷I= 50V÷24mA = 2083.333ohms
+	
 	Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente se mide como I =24.0 ± .01mA ¿Qué concluye acerca de R con base en los valores medidos?
+	
 	Se puede concluir que el vlaor de R puede ser maximo 2087.866ohms y minimo 2078.838ohms.
 	
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
@@ -162,36 +171,22 @@ La difrencia de tiempo es de 15.96s
 
 Actividad 2 
 
-16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 
-Si, ya que cuando deslizamos el objeto en este caso la silla, se produce una carga de energía en nuestros cuerpos y al momento de tocar un objeto se produce una descargar eléctrica.
-
-17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Figura2-1.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
-
-20. ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara
-de la figura 2-23?
- 
- -No hay datos para resolver este ejercicio.
- 
- 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
+
     cd es la corriente que siempre fluye en la misma dirección.
     ca es la corriente que cambia de direccion de manera ciclica 
      
 35. Considere tres baterías conectadas como en la figura 
 
-    a.Si E1=1.47V,E2=1.62V y E3=1.58V, ¿Cúanto vale ET?
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Intensidad.jpeg)
+   
+   a.Si E1=1.47V,E2=1.62V y E3=1.58V, ¿Cúanto vale ET?
     
     b.Si se invierte la conexión a la fuente 3, ¿cúanto vale ET?
     
     
-36. ¿Cómo se cargq una batería secundaria? Haga un bosquejo.¿Se puede cargar una batería primaria?
+36. ¿Cómo se carga una batería secundaria? Haga un bosquejo.¿Se puede cargar una batería primaria?
 
 37. Una batería especificada en 1400mAh suministra 28mA a una carga.
     ¿Cuánto tiempo se espera que dure?
@@ -206,10 +201,16 @@ de la figura 2-23?
 
 42. El voltímetro digital tiene la caracteristica de autopolaridad. 
    Para cada caso determine su lectura.
+   
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/voltimetros.jpeg)
 
-43. La corriente en el circuito de la figura es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1.(b) el emdidor 2, (c) ambos.
+43. La corriente en el circuito de la figura es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1.(b) el medidor 2, (c) ambos.
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Medidor%202.jpeg)
 
 44. ¿Cuál es el error de afirmación de que el voltaje a través de la lámpara de la figura es 70.3V?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/eror.jpeg)
 
 45. ¿Cuál es el error con el esquema de medicion que se muestra en la figura?. Corríjalo.
 

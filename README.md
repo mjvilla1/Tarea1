@@ -40,6 +40,8 @@ Para la resolución de los ejercicios del 1-20
  
   ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.cd.PNG)
   
+  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%205.6.7.PNG)
+  
  Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de

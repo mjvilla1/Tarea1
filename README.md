@@ -37,6 +37,9 @@ Para la resolución de los ejercicios del 1-20
  
  3.-Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se lo indica
  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.PNG)
+ 
+  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.cd.PNG)
+  
  Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de
@@ -79,29 +82,35 @@ es su conclusión?
 
 - Se puede concluir que, cuando tenemos números de notación de potencias diez, nos da el mismo resultado, que cuando hacemos directo sin ninguna tranformación. 
 
-28. Exprese cada una de las siguientes cantidades en notación convencional:
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
-
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
- 
+ V4=V2-V3-V1 por lo tanto V4=5000μV-20×〖10〗^(-4) V-120mV= -0.117V o 117mV el signo indica la direccion por la cual ingresa el voltaje por lo que el valor de I4=117mV
 49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?
-
+El valor de micro faradios se expresa 〖10〗^(-6) por lo que el valor de 139 micromicrofaradas seria 0.0000039 faradios. 
 50.
 	Si 0.045 coulomb de carga pasan a través de un alambre de 15 ms ¿Cuántos electrones equivale esto?
 	
 	Con una rapidez de 9.36×〖10〗^(-19) electrones por segundo ¿ cuantos coulomb pasan por un punto de un alambre de 20μs.
 	
-51. Una seña de radio viaja a 229 792.458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a destino alejado a 5000km? ¿Cuánto tiempo pasa entre la de llegada de una a otra?
-52. En el capítulo 4 aprenderá la potencia de cd esta dad por el producto del voltaje y la corriente esto es, P= V*I Watts.
+51. Una señal de radio viaja a 229792.458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a destino alejado a 5000km? ¿Cuánto tiempo pasa entre la de llegada de una a otra?
+Para realizar este ejercicio primero se debe igualar los datos de la ecuacion por lo tanto la señal de radio viaja a 229 792.458 km/s y la señal telefononica a  150 m/us=150000000m/s=150000km/s por lo que podemos deducir que la señal de radio llega primero.
+Para calcular el tiempo de llegada usamos la formula t=valor de la señal /distancia.
+Tiempo de señal de radio: t=229792.458km/s/5000km=45.96s
+Tiempo de señal telefónica: t=150000km/5000km=30s
+La difrencia de tiempo es de 15.96s
+53. En el capítulo 4 aprenderá la potencia de cd esta dad por el producto del voltaje y la corriente esto es, P= V*I Watts.
 	Si V=50V e I =24 mA (ambos valores exactos) ¿Cuánto vale P en Watts?
-	Si el voltaje se mide con un voltimetro con V=50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I =24.0 ± .01mA ¿Qué concluye acerca de P con base en los valores medidos?
+	P= V*I = 50V*24mA = 1.2W
+	Si el voltaje se mide con un voltimetro con V=50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I =24.0 ± .01mA ¿Qué concluye acerca de P con base en los
+	valores medidos?
+	Se concluye que el valor de P puede ser maximo 1.203W y minimo 1.193W.
 53. En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir R=V÷I  ohms         
 	Si V=50V e I =24 mA (ambos valores exactos) ¿Cuánto vale r en Watts?
+	R=V÷I= 50V÷24mA = 2083.333ohms
 	Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente se mide como I =24.0 ± .01mA ¿Qué concluye acerca de R con base en los valores medidos?
-54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
+	Se puede concluir que el vlaor de R puede ser maximo 2087.866ohms y minimo 2078.838ohms.
+54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 	
 
-Actividad  Capitulo 2
+Actividad 2 
 
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?

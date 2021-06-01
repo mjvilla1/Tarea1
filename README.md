@@ -273,7 +273,7 @@ En el esquema se intenta medir la intensidad conectando en paralelo cuando se de
 
 Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad que soporte ya que si se sobrepasa al ser un elemento de proteccion se funde y portege al circuito
 
-#4. VIDEO
+# 4. VIDEO
 
 https://youtu.be/jv1rz28Q198
 

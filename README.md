@@ -186,6 +186,8 @@ La difrencia de tiempo es de 15.96s
 	
 
 Actividad 2 
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201%20Cap%202.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202%20Cap%202.PNG)
 
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 

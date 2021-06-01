@@ -42,7 +42,7 @@ Para la resolución de los ejercicios del 1-20
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de
 diez con un dígito diferente de cero a la izquierda del punto decimal:
 
-![image](https://user-images.githubusercontent.com/84806069/120139854-f6877c80-c19e-11eb-95e9-9a68f22a745e.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio21.PNG)
 
 22. Exprese las respuestas de cada unas de las siguientes cantidades en notación
 de potencias de diez con un dígito diferente de cero a la izquierda del punto

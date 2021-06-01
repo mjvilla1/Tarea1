@@ -265,6 +265,7 @@ Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad q
 # 5. CONCLUSIONES
 
 -Las cantidades pueden llegar a ser muy grandes pór eso se expresan en terminos electricos como k,m,G,T,p.
+
 -Si en un circuito se tienen datos de resistencia y voltaje, se pueden sacar otros datos como potencia e intensidad y viceversa.
 
 # 6. BIBLIOGRAFIA

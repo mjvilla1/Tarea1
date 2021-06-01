@@ -185,6 +185,7 @@ La difrencia de tiempo es de 15.96s
       x=9.1610〗^(-3)± 0.001
 	
 
+
 Actividad 2 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202%20Cap%202.PNG)

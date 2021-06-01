@@ -191,6 +191,10 @@ Actividad 2
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202%20Cap%202.PNG)
 
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%207%20Cap%202.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2010%20Cap%202.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2011-12-13%20Cap%202.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2014-15%20Cap%202.PNG)
 16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
 
 Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestros cuerpos y al momento de tocar un objeto se provoca una descarga eléctrica.

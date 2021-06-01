@@ -138,6 +138,9 @@ cero a la izquierda del punto decimal.
 El valor de micro faradios se expresa 〖10〗^(-6) por lo que el valor de 139 micromicrofaradas seria 0.0000039 faradios. 
 
 50.     Si 0.045 coulomb de carga pasan a través de un alambre de 15 ms ¿Cuántos electrones equivale esto?
+
+       
+
 	
 	Con una rapidez de 9.36×〖10〗^(-19) electrones por segundo ¿ cuantos coulomb pasan por un punto de un alambre de 20μs.
 	

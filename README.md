@@ -275,8 +275,12 @@ Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad q
 
 https://youtu.be/jv1rz28Q198
 
+
 # 5. CONCLUSIONES
 
+-El sistema internacional en la ingenieria es fundamental para el análisis matemático e implementarlos en los circuitos electricos
+ y poder simplificar las respuestas que se puede observar en la resolución de los ejercicios.
+ 
 -Las cantidades pueden llegar a ser muy grandes pór eso se expresan en terminos electricos como k,m,G,T,p.
 
 -Si en un circuito se tienen datos de resistencia y voltaje, se pueden sacar otros datos como potencia e intensidad y viceversa.

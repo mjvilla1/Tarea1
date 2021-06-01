@@ -84,6 +84,12 @@ es su conclusión?
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
 
+29. Un coulomb (capítulo 2) es la cantidad de carga representada por
+6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de
+potencias de diez.
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio29.PNG)
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
 49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?

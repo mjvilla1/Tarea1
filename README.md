@@ -277,5 +277,5 @@ Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad q
 -Si en un circuito se tienen datos de resistencia y voltaje, se pueden sacar otros datos como potencia e intensidad y viceversa.
 
 # 6. BIBLIOGRAFIA
-
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
 

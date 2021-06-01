@@ -187,6 +187,17 @@ La difrencia de tiempo es de 15.96s
 
 Actividad 2 
 
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+
+Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestros cuerpos y al momento de tocar un objeto se provoca una descarga eléctrica.
+
+17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Figura2-1.PNG)
+
+18. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
+
+19. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 

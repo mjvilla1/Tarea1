@@ -37,8 +37,7 @@ Para la resolución de los ejercicios del 1-20
  
  3.-Establezca los factores de conversión, calcule lo siguiente y exprese las respuestas en las unidades que se lo indica
  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.PNG)
- 
-Para la resolución de los ejercicios del 21 al 40 
+ Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de
 diez con un dígito diferente de cero a la izquierda del punto decimal:
@@ -84,18 +83,6 @@ es su conclusión?
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
 
-29. Un coulomb (capítulo 2) es la cantidad de carga representada por
-6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de
-potencias de diez.
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio29.PNG)
-
-30.La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9
-kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de
-cero a la izquierda del punto decimal.
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio30.PNG)
-
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
 49.Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39mmfd.Despues de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. ¿Cuál será el valor equivalente a 39 “micromicrofaradas”?
@@ -114,7 +101,7 @@ cero a la izquierda del punto decimal.
 	Si el voltaje se mide como V=50.0 ± 0.1 volts y la corriente se mide como I =24.0 ± .01mA ¿Qué concluye acerca de R con base en los valores medidos?
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
 
-Actividad 2 
+Actividad  Capitulo 2
 
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?

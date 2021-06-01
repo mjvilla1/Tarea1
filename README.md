@@ -11,7 +11,7 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
         de voltaje y corriente para aplicar el conocieminto adquirido.     
     
     Objetivos Específicos
-     - Conocer la capacidad de voltios que actuan en un sistema eléctrico.
+     - Conocer la capacidad de voltios que actuan en un sistema eléctrico mediante la ley de OHM.
      - Saber cual es la presión que ejerce en una fuente de suministro de energía eléctrica. 
      - Cuantificar o medir la diferencia o pontencial eléctrico o tensión eléctrica. 
      - Conocer las principales operaciones al momento de emplear terminos electricos-electronicos.
@@ -317,6 +317,10 @@ https://youtu.be/jv1rz28Q198
 -Las cantidades pueden llegar a ser muy grandes pór eso se expresan en terminos electricos como k,m,G,T,p.
 
 -Si en un circuito se tienen datos de resistencia y voltaje, se pueden sacar otros datos como potencia e intensidad y viceversa.
+
+-Es necesario medir los voltajes parciales en cada una de las resistencias para luego mediante la ley de ohm calcularlos teóricamente y compararlos.
+
+-Es necesario determinar con el multímetro los valores de voltaje que devuelve el transformador para no tener errores.
 
 # 6. BIBLIOGRAFIA
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.

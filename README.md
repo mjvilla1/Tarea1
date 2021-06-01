@@ -86,6 +86,42 @@ es su conclusión?
 
 - Se puede concluir que, cuando tenemos números de notación de potencias diez, nos da el mismo resultado, que cuando hacemos directo sin ninguna tranformación. 
 
+28. Exprese cada una de las siguientes cantidades en notación convencional:
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
+
+29. Un coulomb (capítulo 2) es la cantidad de carga representada por
+6 240 000 000 000 000 000 electrones. Exprese esta cantidad en notación de
+potencias de diez.
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio29.PNG)
+
+30. La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9
+kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de
+cero a la izquierda del punto decimal.
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio30.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio31.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio32.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio33.PNG)
+
+34. ¿Qué tan lejos viaja la luz en km en un año luz?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio34.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio35.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio37.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio38.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio39.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio40.PNG)
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
  V4=V2-V3-V1 por lo tanto V4=5000μV-20×〖10〗^(-4) V-120mV= -0.117V o 117mV el signo indica la direccion por la cual ingresa el voltaje por lo que el valor de I4=117mV

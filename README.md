@@ -52,22 +52,22 @@ decimal:
 
 23. Repita las instrucciones de la pregunta 22 para las siguientes cantidades
 
-![image](https://user-images.githubusercontent.com/84806069/120139957-28004800-c19f-11eb-9b0a-79a50c3f0de4.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio23.PNG)
 
 24. Determine el resultado de las siguientes operaciones
 
-![image](https://user-images.githubusercontent.com/84806069/120140019-3f3f3580-c19f-11eb-9afd-42343d9f81d0.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio24.PNG)
 
 25. Convierta las siguientes cantidades a notación de potencias de 10, y sin usar
 la calculadora determine las respuestas.
 
-![image](https://user-images.githubusercontent.com/84806069/120140078-60078b00-c19f-11eb-81b4-e3ba8094db23.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio25.PNG)
 
 26. Para cada una de las siguientes cantidades convierta los números a notación
 de potencias de diez, después realice los cálculos que se indican. Redondee su
 respuesta a cuatro dígitos:
 
-![image](https://user-images.githubusercontent.com/84806069/120246807-f935b080-c236-11eb-855c-3dd36d8e8542.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio26.PNG)
 
  27. Realice lo siguiente,
 a. convierta los números a notación de potencias de diez, después realice los
@@ -75,7 +75,7 @@ cálculos que se indican,
 b. realice la operación directamente en la calculadora sin conversión. ¿Cuál
 es su conclusión?
 
-![image](https://user-images.githubusercontent.com/84806069/120248029-2a17e480-c23b-11eb-8b51-7d7a7e466fc3.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio27.PNG)
 
 
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?

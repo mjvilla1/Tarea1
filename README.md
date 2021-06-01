@@ -179,9 +179,9 @@ Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestr
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Figura2-1.PNG)
 
-18. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
 
-19. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
 
 20. No hay datos en el libro para poder dar una solución a dicho ejercicio. 
 

@@ -167,6 +167,11 @@ La difrencia de tiempo es de 15.96s
 	Se puede concluir que el vlaor de R puede ser maximo 2087.866ohms y minimo 2078.838ohms.
 	
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2054.jpeg)
+
+      (0.8 ± 0.1)+2x+ 2(0.25/0.45)
+      x=9.1610〗^(-3)± 0.001
 	
 
 Actividad 2 
@@ -175,6 +180,7 @@ Actividad 2
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 
     cd es la corriente que siempre fluye en la misma dirección.
+    
     ca es la corriente que cambia de direccion de manera ciclica 
      
 35. Considere tres baterías conectadas como en la figura 

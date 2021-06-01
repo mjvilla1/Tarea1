@@ -138,6 +138,9 @@ cero a la izquierda del punto decimal.
 El valor de micro faradios se expresa 〖10〗^(-6) por lo que el valor de 139 micromicrofaradas seria 0.0000039 faradios. 
 
 50.     Si 0.045 coulomb de carga pasan a través de un alambre de 15 ms ¿Cuántos electrones equivale esto?
+
+       
+
 	
 	Con una rapidez de 9.36×〖10〗^(-19) electrones por segundo ¿ cuantos coulomb pasan por un punto de un alambre de 20μs.
 	
@@ -167,34 +170,20 @@ La difrencia de tiempo es de 15.96s
 	Se puede concluir que el vlaor de R puede ser maximo 2087.866ohms y minimo 2078.838ohms.
 	
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2054.jpeg)
+
+      (0.8 ± 0.1)+2x+ 2(0.25/0.45)
+      x=9.1610〗^(-3)± 0.001
 	
 
 Actividad 2 
-
-16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
-
-Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestros cuerpos y al momento de tocar un objeto se provoca una descarga eléctrica.
-
-17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Figura2-1.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
-
-20. No hay datos en el libro para poder dar una solución a dicho ejercicio. 
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio21_2.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio22_2.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio23_2.PNG)
 
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 
     cd es la corriente que siempre fluye en la misma dirección.
+    
     ca es la corriente que cambia de direccion de manera ciclica 
      
 35. Considere tres baterías conectadas como en la figura 
@@ -202,20 +191,38 @@ Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestr
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Intensidad.jpeg)
    
    a.Si E1=1.47V,E2=1.62V y E3=1.58V, ¿Cúanto vale ET?
-    
-    b.Si se invierte la conexión a la fuente 3, ¿cúanto vale ET?
-    
+   
+   ET= E1+E2+E3= 4.67V
+   
+   b.Si se invierte la conexión a la fuente 3, ¿cúanto vale ET?
+   
+   ET=E1+E2-E3= 1.51V
     
 36. ¿Cómo se carga una batería secundaria? Haga un bosquejo.¿Se puede cargar una batería primaria?
 
-37. Una batería especificada en 1400mAh suministra 28mA a una carga.
-    ¿Cuánto tiempo se espera que dure?
+La bateria secundaria se recarga ingresando una cantidad de energia que genera que los elementos la almacenen para que puedan volver a soltar energia despues, las baterias primarias no se pueden recargar por los materiales de los que se encuentra hecho.
 
-38. ¿Cuál es la vida de servivio aproximada de la celda D de la tabla con un consumo de corriente de 10mA, de 50 mA y de 100 mA?¿Qué concluye de estos resultados?
+37. Una batería especificada en 1400mAh suministra 28mA a una carga.
+    
+    ¿Cuánto tiempo se espera que dure?
+    
+    t=(1400mAh/28mA)=50 horas
+
+38. ¿Cuál es la vida de servicio aproximada de la celda D de la tabla con un consumo de corriente de 10mA, de 50 mA y de 100 mA?¿Qué concluye de estos resultados?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%20388.jpeg)
 
 39. La batería de la figura esta especificada en 81Ah a 5°C.¿Cuál es el tiempo de vida esperado(em horas) con un consumo de corriende de 5A a -15°C?
 
-40. Se espera que la batería de la figura dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con unconsumo de corriente de 0.8 A?
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/EJERCICIO%2038%20ac%202.jpeg)
+
+De -15°C baja a 65% por lo que es 81x0.65=52.65Ah por lo tanto la vida sera dada t=52.65Ah/5A=10.53 horas. 
+
+40. Se espera que la batería de la figura dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/EJERCICIO%2038%20ac%202.jpeg)
+
+La capacidad baja a 90 % por lo que es 0.9 x 25.5 =22.95Ah por lo que el tiempo de duracion seria  t=22.95Ah/0.8A=28.69h
 
 41. En el tranajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla. Si el dispositivo requiere 10 mA ¿cuál es el tiempo estimado (en horas) que será capaz de usar?
 
@@ -224,21 +231,42 @@ Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestr
    
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/voltimetros.jpeg)
 
+a) 25 V
+
+b) 25 V
+
+c) 14 V
+
+d) 14 V
+
 43. La corriente en el circuito de la figura es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1.(b) el medidor 2, (c) ambos.
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Medidor%202.jpeg)
 
+La corriente se mide como si fuera circuito abierto , la respuesta correcta es la c ya que ambos estan en circuito abierto 
+
 44. ¿Cuál es el error de afirmación de que el voltaje a través de la lámpara de la figura es 70.3V?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2044%20ac%202.jpeg)
+
+El error de afirmación es que el voltaje no es el que pasa a través si no mas bien es la difrencia de potencial que tiene un objeto.
+
+45. ¿Cuál es el error con el esquema de medicion que se muestra en la figura?. Corríjalo.
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/eror.jpeg)
 
-45. ¿Cuál es el error con el esquema de medicion que se muestra en la figura?. Corríjalo.
+En el esquema se intenta medir la intensidad conectando en paralelo cuando se debe conectar en serie para poder medir intensidad.
 
 46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla. Dibuje el circuito requerido.
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificaciónde voltaje. ¿Por qué?.
 
+Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad que soporte ya que si se sobrepasa al ser un elemento de proteccion se funde y portege al circuito 
 # 5. CONCLUSIONES
 
+-Las cantidades pueden llegar a ser muy grandes pór eso se expresan en terminos electricos como k,m,G,T,p.
+-Si en un circuito se tienen datos de resistencia y voltaje, se pueden sacar otros datos como potencia e intensidad y viceversa.
+
 # 6. BIBLIOGRAFIA
+
 

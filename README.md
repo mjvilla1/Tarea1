@@ -138,9 +138,6 @@ cero a la izquierda del punto decimal.
 El valor de micro faradios se expresa 〖10〗^(-6) por lo que el valor de 139 micromicrofaradas seria 0.0000039 faradios. 
 
 50.     Si 0.045 coulomb de carga pasan a través de un alambre de 15 ms ¿Cuántos electrones equivale esto?
-
-       
-
 	
 	Con una rapidez de 9.36×〖10〗^(-19) electrones por segundo ¿ cuantos coulomb pasan por un punto de un alambre de 20μs.
 	
@@ -170,20 +167,34 @@ La difrencia de tiempo es de 15.96s
 	Se puede concluir que el vlaor de R puede ser maximo 2087.866ohms y minimo 2078.838ohms.
 	
 54. El componente soldado en el circuito impreso de la Figura(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espaciamiento de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación. 
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2054.jpeg)
-
-      (0.8 ± 0.1)+2x+ 2(0.25/0.45)
-      x=9.1610〗^(-3)± 0.001
 	
 
 Actividad 2 
+
+16. Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Explique por qué.
+
+Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestros cuerpos y al momento de tocar un objeto se provoca una descarga eléctrica.
+
+17. Si se requieren 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿cuál es el voltaje de la batería?
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Figura2-1.PNG)
+
+18. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio18_2.PNG)
+
+19. ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio19_2.PNG)
+
+20. No hay datos en el libro para poder dar una solución a dicho ejercicio. 
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio21_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio22_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio23_2.PNG)
 
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 
     cd es la corriente que siempre fluye en la misma dirección.
-    
     ca es la corriente que cambia de direccion de manera ciclica 
      
 35. Considere tres baterías conectadas como en la figura 

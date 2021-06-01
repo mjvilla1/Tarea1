@@ -193,6 +193,11 @@ Actividad 2
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203-4%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%205%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%207%20Cap%202.PNG)
+
+8.-¿Qué significado tiene decir que un cuerpo está cargado?
+ 
+ Un cuerpo se encuentra cargado cuando gana o pierde electrones
+ 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%209%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2010%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2011-12-13%20Cap%202.PNG)

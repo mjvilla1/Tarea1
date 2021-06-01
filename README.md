@@ -167,6 +167,7 @@ Actividad 2
 
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
+
     cd es la corriente que siempre fluye en la misma dirección.
     ca es la corriente que cambia de direccion de manera ciclica 
      

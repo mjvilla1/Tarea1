@@ -44,6 +44,14 @@ Para la resolución de los ejercicios del 1-20
  
   ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.cd.PNG)
   
+  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%205.6.7.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%208.9.PNG )
+![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%2010.11.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%2012.13.14.PNG )
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%2015.16.PNG )
+![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2017.PNG)
+![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%2018.PNG)
+![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%2019.20.PNG)  
  Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de

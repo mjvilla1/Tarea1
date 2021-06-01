@@ -207,6 +207,17 @@ Si, ya que cuando deslizamos la silla se produce una carga de energía en nuestr
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio23_2.PNG)
 
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio24_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio25.26_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio27_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio28_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio30_2.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio31.32.33_2.PNG)
 
 34. ¿Qué se entiendé por cd?, ¿ y por ca?
 

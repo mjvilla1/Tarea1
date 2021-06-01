@@ -192,6 +192,7 @@ Actividad 2
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203-4%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%205%20Cap%202.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%206%20Cap%202.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%207%20Cap%202.PNG)
 
 8.-¿Qué significado tiene decir que un cuerpo está cargado?
@@ -311,10 +312,6 @@ El error de afirmación es que el voltaje no es el que pasa a través si no mas 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/eror.jpeg)
 
 En el esquema se intenta medir la intensidad conectando en paralelo cuando se debe conectar en serie para poder medir intensidad.
-
-46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla. Dibuje el circuito requerido.
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Tabla%202-2.jpeg)
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificaciónde voltaje. ¿Por qué?.
 

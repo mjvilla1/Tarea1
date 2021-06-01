@@ -92,6 +92,12 @@ potencias de diez.
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio29.PNG)
 
+30. La masa de un electrón es 0.000 000 000 000 000 000 000 000 000 000 899 9
+kg. Exprese esta cifra como una potencia de 10 con un dígito diferente de
+cero a la izquierda del punto decimal.
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio30.PNG)
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
  V4=V2-V3-V1 por lo tanto V4=5000μV-20×〖10〗^(-4) V-120mV= -0.117V o 117mV el signo indica la direccion por la cual ingresa el voltaje por lo que el valor de I4=117mV

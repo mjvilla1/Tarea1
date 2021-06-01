@@ -48,7 +48,7 @@ diez con un dígito diferente de cero a la izquierda del punto decimal:
 de potencias de diez con un dígito diferente de cero a la izquierda del punto
 decimal:
 
-![image](https://user-images.githubusercontent.com/84806069/120139901-11f28780-c19f-11eb-82e5-ff1ee8d834f4.png)
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio22.PNG)
 
 23. Repita las instrucciones de la pregunta 22 para las siguientes cantidades
 

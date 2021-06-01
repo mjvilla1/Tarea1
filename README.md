@@ -31,6 +31,7 @@ Para la resolución de los ejercicios del 1-20
  1.-
  
  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%201.PNG)
+ 
  2.- 
  
  ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%202.PNG)
@@ -40,6 +41,7 @@ Para la resolución de los ejercicios del 1-20
  
   ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicio%203.cd.PNG)
   
+  ![]( https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejercicios%205.6.7.PNG)
  Para la resolución de los ejercicios del 21 al 40 
 
  21. Exprese cada unas de las siguientes cantidades en notación de potencias de
@@ -81,10 +83,6 @@ es su conclusión?
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio27.PNG)
 
 - Se puede concluir que, cuando tenemos números de notación de potencias diez, nos da el mismo resultado, que cuando hacemos directo sin ninguna tranformación. 
-
-28. Exprese cada una de las siguientes cantidades en notación convencional:
-
-![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
 
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  

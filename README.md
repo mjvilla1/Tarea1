@@ -16,7 +16,7 @@ Integrantes: César Garnica-Jhonatan Insuasti-Melany Villa
      - Cuantificar o medir la diferencia o pontencial eléctrico o tensión eléctrica. 
      - Conocer las principales operaciones al momento de emplear terminos electricos-electronicos.
      - Identificar los calculos a realizar para la medición de sistemas electricos.
-     - Reconocer las diferntes cantidades de unidades.
+     - Reconocer las diferentes cantidades de unidades.
     
     
 # 2. MARCO TEORICO

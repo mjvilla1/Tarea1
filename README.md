@@ -77,7 +77,7 @@ es su conclusión?
 
 ![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio27.PNG)
 
-- Se puede concluir que, cuando tenemos números de notación de potencias diez da el mismo resultado que cuando hacemos directo sin ninguna tranformación. 
+- Se puede concluir que, cuando tenemos números de notación de potencias diez, nos da el mismo resultado, que cuando hacemos directo sin ninguna tranformación. 
 
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  

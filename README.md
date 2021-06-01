@@ -82,6 +82,10 @@ es su conclusión?
 
 - Se puede concluir que, cuando tenemos números de notación de potencias diez, nos da el mismo resultado, que cuando hacemos directo sin ninguna tranformación. 
 
+28. Exprese cada una de las siguientes cantidades en notación convencional:
+
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Ejecicio28.PNG)
+
  48.En cierto circuito electrónico V1=V2-V3-V4. Si V1=120mV,V2=5000μV y V3=20×〖10〗^(-4) V ,¿Cuánto vale V4?
  
  V4=V2-V3-V1 por lo tanto V4=5000μV-20×〖10〗^(-4) V-120mV= -0.117V o 117mV el signo indica la direccion por la cual ingresa el voltaje por lo que el valor de I4=117mV

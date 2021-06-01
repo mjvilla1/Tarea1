@@ -269,7 +269,12 @@ En el esquema se intenta medir la intensidad conectando en paralelo cuando se de
 
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificaciónde voltaje. ¿Por qué?.
 
-Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad que soporte ya que si se sobrepasa al ser un elemento de proteccion se funde y portege al circuito 
+Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad que soporte ya que si se sobrepasa al ser un elemento de proteccion se funde y portege al circuito
+
+#4. VIDEO
+
+https://youtu.be/jv1rz28Q198
+
 # 5. CONCLUSIONES
 
 -Las cantidades pueden llegar a ser muy grandes pór eso se expresan en terminos electricos como k,m,G,T,p.

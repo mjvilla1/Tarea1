@@ -267,6 +267,8 @@ En el esquema se intenta medir la intensidad conectando en paralelo cuando se de
 
 46. Se desea controlar la luz de una lámpara mediante dos interruptores, como se indica en la tabla. Dibuje el circuito requerido.
 
+![](https://github.com/mjvilla1/ImagenesTarea1/blob/main/Tabla%202-2.jpeg)
+
 47. Los fusibles tienen una especificación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especificaciónde voltaje. ¿Por qué?.
 
 Esto se da por el material que esta hecho y la cantidad de voltaje e intesidad que soporte ya que si se sobrepasa al ser un elemento de proteccion se funde y portege al circuito
